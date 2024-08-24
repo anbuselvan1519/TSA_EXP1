@@ -35,4 +35,4 @@ plt.show()
 ![Screenshot 2024-08-21 095212](https://github.com/user-attachments/assets/537ba55c-3f46-4ae5-9eec-6ab8574b6801)
 
 # RESULT:
-Thus we have created the python code for plotting the time series from yahoo stock prediction.
+Thus , This is the python code for plotting the time series from yahoo stock prediction.
